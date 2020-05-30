@@ -1,0 +1,1 @@
+ This is first file before running the git diff command
